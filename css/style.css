@@ -11,7 +11,7 @@ body {
 }
 
 .container {
-  background-color: #4d4e4f;
+  background-color: #333333;
   margin: 25% auto;
   margin-top: 50px;
   padding: 70px;
@@ -40,9 +40,12 @@ h3 {
   display: inline-block;
   line-height: 1px;
   text-indent: 30px;
+  }
+
+.location {
   border-bottom-style: solid;
   border-width: thin;
-  }
+}
 
 nav {
   background-color: black;
