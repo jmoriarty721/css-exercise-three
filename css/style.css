@@ -43,9 +43,20 @@ h3 {
   }
 
 .location {
+  background-color: inherit;
   border-bottom-style: solid;
   border-width: thin;
+  padding-bottom: 3%;
+  padding-top: 3%;
 }
+
+.location:hover {
+  background-color: #aaa;
+}
+a {
+  hover
+}
+
 
 nav {
   background-color: black;
@@ -53,9 +64,12 @@ nav {
   padding: 20px;
   position: fixed;
   width: 380px;
+  height: 40px;
 }
 
+
 .arrow-left {
+  padding-top: 11px
 }
 
 .restaurant-list {
